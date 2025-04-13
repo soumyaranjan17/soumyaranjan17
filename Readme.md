@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with java**
 
-- 💬 Ask me about **C++,C,HTML,CSS,JAVA**
+- 💬 Ask me about **C++,C,HTML,CSS,JAVA,JS,PYTHON**
 
-- 📫 How to reach me **viveksaha096@gmail.com**
+- 📫 How to reach me **kanha.marshaghai.2016@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
