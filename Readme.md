@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.instagram.com/soumyaranjan3904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaranjan3904" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/soumyaranjansahoo_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyaranjansahoo_07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soumya-ranjan-kanha-7a647b296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEk2R%2F%2F%2BLQXeKSWgIAKeILw%3D%3D" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6616c11b-2d49-48a0-8de3-2b6a13192079
+<a href="https://www.linkedin.com/in/soumya-ranjan-kanha-7a647b296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEk2R%2F%2F%2BLQXeKSWgIAKeILw%3D%3D" target="blank"><img align="center" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKEb6mePxnav0JLFi9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYXNzaXN0;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA0pTNFhEWk1WVFVpU2d3Q3B5d2tKQ0EEbl9yc2x0AzAEbl9zdWdnAzEwBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMQRwcXN0cgNsaW5rZWRpbiBsBHBxc3RybAMxMARxc3RybAMxMwRxdWVyeQNsaW5rZWRpbiUyMGxvZ28EdF9zdG1wAzE3NDQ1OTkyMjUEdXNlX2Nhc2UD?p=linkedin+logo&fr=mcafee&fr2=sa-gp-search&ei=UTF-8&x=wrt&type=E210IN885G0#id=4&iurl=http%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG6.png&action=click
 " alt="Soumya Ranjan Kanha" height="30" width="40" /></a>
 </p>
 
