@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.instagram.com/soumyaranjan3904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaranjan3904" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/soumyaranjansahoo_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyaranjansahoo_07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soumya-ranjan-kanha-7a647b296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEk2R%2F%2F%2BLQXeKSWgIAKeILw%3D%3D" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/6616c11b-2d49-48a0-8de3-2b6a13192079)
+<a href="https://www.linkedin.com/in/soumya-ranjan-kanha-7a647b296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEk2R%2F%2F%2BLQXeKSWgIAKeILw%3D%3D" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6616c11b-2d49-48a0-8de3-2b6a13192079
 " alt="Soumya Ranjan Kanha" height="30" width="40" /></a>
 </p>
 
