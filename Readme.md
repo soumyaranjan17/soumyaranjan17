@@ -26,7 +26,7 @@
 
 ## 🌟 My Tech Stack — Languages I Love
 
-## 💻 Tech Stack
+
 
 <div align="center">
 
@@ -67,4 +67,39 @@
 
 
 
-<div align="center"><a href="https://github.com/soumyaranjan17"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan17&theme=tokyonight_duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" /> </a>  <a href="https://github.com/soumyaranjan17"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan17&layout=compact&theme=tokyonight&langs_count=6&card_width=320&border_radius=10" alt="Top Languages" height="180" /> </a> <!-- GitHub Stats --> <a href="https://github.com/soumyaranjan17"> <img src="https://github-readme-stats.vercel.app/api?username=soumyaranjan17&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true&border_radius=10" alt="GitHub Stats" height="180" /> </a> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/soumyaranjan17">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan17&theme=tokyonight_duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
+      alt="GitHub Streak" 
+      height="180" 
+      style="margin: 10px;" 
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/soumyaranjan17">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan17&layout=compact&theme=tokyonight&langs_count=6&card_width=320&border_radius=10" 
+      alt="Top Languages" 
+      height="180" 
+      style="margin: 10px;" 
+    />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/soumyaranjan17">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=soumyaranjan17&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true&border_radius=10" 
+      alt="GitHub Stats" 
+      height="180" 
+      style="margin: 10px;" 
+    />
+  </a>
+
+</div>
+
