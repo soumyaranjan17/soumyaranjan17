@@ -69,6 +69,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
   <!-- GitHub Streak -->
@@ -84,7 +86,7 @@
   <!-- Top Languages -->
   <a href="https://github.com/soumyaranjan17">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan17&layout=compact&theme=tokyonight&langs_count=6&card_width=320&border_radius=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan17&layout=compact&theme=tokyonight&langs_count=10&size_weight=0&count_weight=1&card_width=320&border_radius=10" 
       alt="Top Languages" 
       height="180" 
       style="margin: 10px;" 
@@ -102,4 +104,3 @@
   </a>
 
 </div>
-
