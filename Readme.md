@@ -24,7 +24,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/soumya-ranjan-kanha-7a647b296/" target="_blank">
+<a href="https://www.linkedin.com/in/soumya-ranjan-sahoo-925314328/?skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwFADu6msRXCPVHlbIqc3Vg%3D%3D" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
