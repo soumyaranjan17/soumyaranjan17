@@ -1,4 +1,4 @@
-```md
+
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Sahoo</h1>
