@@ -16,7 +16,7 @@
 - 💻 Building projects using **React.js, JavaScript, HTML, CSS, Bootstrap, Java, and SQL Server**
 - 🔭 Interested in **Full-Stack Development, Problem Solving, and Open Source**
 - 💬 Ask me about **Java, C, C++, JavaScript, HTML, CSS, React.js, SQL Server, and Git**
-- 📫 Reach me at **kanha.marshaghai.2016@gmail.com**
+- 📫 Reach me at **sahoosoumyaranjan3592@gmail.com**
 - ⚡ Fun Fact: **I enjoy solving coding challenges and continuously learning new technologies.**
 
 ---
